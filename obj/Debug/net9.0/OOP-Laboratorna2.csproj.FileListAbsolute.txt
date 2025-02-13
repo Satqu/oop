@@ -1,0 +1,14 @@
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\bin\Debug\net9.0\OOP-Laboratorna2.exe
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\bin\Debug\net9.0\OOP-Laboratorna2.deps.json
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\bin\Debug\net9.0\OOP-Laboratorna2.runtimeconfig.json
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\bin\Debug\net9.0\OOP-Laboratorna2.dll
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\bin\Debug\net9.0\OOP-Laboratorna2.pdb
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.AssemblyInfoInputs.cache
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.AssemblyInfo.cs
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.csproj.CoreCompileInputs.cache
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.dll
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\refint\OOP-Laboratorna2.dll
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.pdb
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\OOP-Laboratorna2.genruntimeconfig.cache
+D:\Rider\JetBrains\projects\OOP-Laboratorna2\OOP-Laboratorna2\obj\Debug\net9.0\ref\OOP-Laboratorna2.dll
